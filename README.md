@@ -20,18 +20,17 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I am a final year B.Tech student at Prakasam Engineering College with strong skills in Web Development, Java, SQL, and Cloud Computing. I am passionate about building scalable applications and continuously learning new technologies.</p>
+    <p>I am a final year🎓 B.Tech student at Prakasam Engineering College with strong skills in 🌐 Web Development, ☕ Java, 🗄️ SQL, and ☁️ Cloud Computing Platform. I am passionate 💡 about building scalable applications ⚙️📱 and continuously learning 📚💻 new technologies 🚀..</p>
   </section>
 
   <section id="skills">
     <h2>Skills</h2>
     <div class="skills">
-      <div class="card">C</div>
-      <div class="card">C++</div>
-      <div class="card">Java</div>
-      <div class="card">HTML, CSS, JavaScript</div>
-      <div class="card">SQL</div>
-      <div class="card">Cloud Computing (Google Cloud)</div>
+      <div class="card">🅲C</div>
+      <div class="card">☕Java</div>
+      <div class="card"> 🌐 HTML, CSS, JavaScript</div>
+      <div class="card">🗄️SQL</div>
+      <div class="card">☁️Cloud Computing (Google Cloud)</div>
     </div>
   </section>
 
@@ -39,7 +38,7 @@
     <h2>Projects</h2>
     <div class="projects">
       <div class="card">
-        <h3>Personal Portfolio Website</h3>
+        <h3>🌐💻🚀Personal Portfolio Website🌐💻🚀</h3>
         <p>Responsive website to showcase my resume, skills, and projects. Built using HTML, CSS, and JavaScript. Hosted on GitHub Pages.</p>
       </div>
     </div>
