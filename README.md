@@ -8,7 +8,7 @@
 <body>
   <header>
     <h1>Perugupalli Venkata Vahini Priya</h1>
-    <p>Aspiring Software Developer | Web Development | Java | SQL | Cloud</p>
+    <p>🎓 CSE Student @ Prakasam Engineering College | 💻 Aspiring Software Developer | 🌐 Skilled in Web Development, ⚙️ JavaScript, 🗄️ SQL & ☁️ Cloud Computing | 📜 Certified by Cognitive Class, Google Cloud & ExcelR</p>
     <nav>
       <a href="#about">About</a>
       <a href="#skills">Skills</a>
