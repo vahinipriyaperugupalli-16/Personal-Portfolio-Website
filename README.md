@@ -46,14 +46,14 @@
 
   <section id="resume">
     <h2>Resume</h2>
-    <p><a href="file:///C:/Users/vahin/Downloads/MS.Priyasatyam.pdf" target="_blank">Download My Resume (PDF)</a></p>
+    <p><a href="MS.Priyasatyam.pdf" target="_blank">Download My Resume (PDF)</a></p>
   </section>
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: vahinipriyaperugupalli@gmail.com</p>
-    <p>LinkedIn: <a href="#">linkedin.com/in/vahinipriya</a></p>
-    <p>GitHub: <a href="#">github.com/vahinipriya</a></p>
+    <p>Email: vahinipriyaperugupalli@gmail.com </p>
+    <p>LinkedIn: <a href="#"> linkedin.com/in/vahinipriyapeurgupalli </a></p>
+    <p>GitHub: <a href="#"> github.com/vahinipriyaperugupalli </a></p>
   </section>
 
   <footer>
