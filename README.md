@@ -46,7 +46,7 @@
 
   <section id="resume">
     <h2>Resume</h2>
-    <p><a href="MS.Priyasatyam.pdf" target="_blank">Download My Resume (PDF)</a></p>
+    <p><a href="#">MS.priyasatyam.pdf</a></p>
   </section>
 
   <section id="contact">
