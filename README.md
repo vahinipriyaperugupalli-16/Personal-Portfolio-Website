@@ -10,11 +10,11 @@
     <h1>Perugupalli Venkata Vahini Priya</h1>
     <p>🎓 CSE Student @ Prakasam Engineering College | 💻 Aspiring Software Developer | 🌐 Skilled in Web Development, ⚙️ JavaScript, 🗄️ SQL & ☁️ Cloud Computing | 📜 Certified by Cognitive Class, Google Cloud & ExcelR</p>
     <nav>
-      <a href="#about">About</a>
-      <a href="#skills">Skills</a>
-      <a href="#projects">Projects</a>
-      <a href="#resume">Resume</a>
-      <a href="#contact">Contact</a>
+      <a href="#About ">About</a>
+      <a href="#Skills ">Skills</a>
+      <a href="#Projects ">Projects</a>
+      <a href="#Resume ">Resume</a>
+      <a href="#Contact ">Contact</a>
     </nav>
   </header>
 
@@ -26,9 +26,9 @@
   <section id="skills">
     <h2>Skills</h2>
     <div class="skills">
-      <div class="card">🅲C</div>
+      <div class="card">🅲 C</div>
       <div class="card">☕Java</div>
-      <div class="card"> 🌐 HTML, CSS, JavaScript</div>
+      <div class="card">🌐 HTML, CSS, JavaScript</div>
       <div class="card">🗄️SQL</div>
       <div class="card">☁️Cloud Computing (Google Cloud)</div>
     </div>
