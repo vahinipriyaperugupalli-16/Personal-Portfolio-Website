@@ -26,7 +26,7 @@
   <section id="skills">
     <h2>Skills</h2>
     <div class="skills">
-      <div class="card">🅲 C</div>
+      <div class="card"> 🅲 C</div>
       <div class="card">☕Java</div>
       <div class="card">🌐 HTML, CSS, JavaScript</div>
       <div class="card">🗄️SQL</div>
