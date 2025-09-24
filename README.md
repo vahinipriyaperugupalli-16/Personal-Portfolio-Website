@@ -1,13 +1,13 @@
 # Personal-Portfolio-Website
 <!DOCTYPE html>
-<html lang="en">
+<html lang="english">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 <body>
   <header>
-    <h1>Perugupalli Venkata Vahini Priya</h1>
+    <h1 color: blue;>Perugupalli Venkata Vahini Priya</h1>
     <p>🎓 CSE Student @ Prakasam Engineering College | 💻 Aspiring Software Developer | 🌐 Skilled in Web Development, ⚙️ JavaScript, 🗄️ SQL & ☁️ Cloud Computing | 📜 Certified by Cognitive Class, Google Cloud & ExcelR</p>
     <nav>
       <a href="#About ">About</a>
