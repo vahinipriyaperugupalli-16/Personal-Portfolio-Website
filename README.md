@@ -8,7 +8,7 @@
 <body>
   <header>
     <h1 style = "color : blue">Perugupalli Venkata Vahini Priya</h1>
-    <p>🎓 CSE Student @ Prakasam Engineering College | 💻 Aspiring Software Developer | 🌐 Skilled in Web Development, ⚙️ JavaScript, 🗄️ SQL & ☁️ Cloud Computing | 📜 Certified by Cognitive Class, Google Cloud & ExcelR</p>
+    <p style = "color : yellow">🎓 CSE Student @ Prakasam Engineering College | 💻 Aspiring Software Developer | 🌐 Skilled in Web Development, ⚙️ JavaScript, 🗄️ SQL & ☁️ Cloud Computing | 📜 Certified by Cognitive Class, Google Cloud & ExcelR</p>
     <nav>
       <a href="#About ">About</a>
       <a href="#Skills ">Skills</a>
